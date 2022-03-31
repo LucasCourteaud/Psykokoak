@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginServicesActivity">
+
+  <Button
+      android:id="@+id/LoginSpotifyButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="92dp"
+      android:text="@string/spotify"
+      android:background="@drawable/round_border"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.498"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <Button
+      android:id="@+id/LoginRedditButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="48dp"
+      android:text="@string/reddit"
+      android:background="@drawable/round_border"
+      app:layout_constraintEnd_toEndOf="@+id/LoginSpotifyButton"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toStartOf="@+id/LoginSpotifyButton"
+      app:layout_constraintTop_toBottomOf="@+id/LoginSpotifyButton" />
+
+  <Button
+      android:id="@+id/LoginGithubButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="48dp"
+      android:text="@string/github"
+      android:background="@drawable/round_border"
+      app:layout_constraintEnd_toEndOf="@+id/LoginRedditButton"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="@+id/LoginRedditButton"
+      app:layout_constraintTop_toBottomOf="@+id/LoginRedditButton" />
+
+  <Button
+      android:id="@+id/LoginYoutubeButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="48dp"
+      android:text="@string/youtube"
+      android:background="@drawable/round_border"
+      app:layout_constraintEnd_toEndOf="@+id/LoginGithubButton"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="@+id/LoginGithubButton"
+      app:layout_constraintTop_toBottomOf="@+id/LoginGithubButton" />
+
+  <Button
+      android:id="@+id/LoginGmailButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="48dp"
+      android:text="@string/gmail"
+      android:background="@drawable/round_border"
+      app:layout_constraintEnd_toEndOf="@+id/LoginYoutubeButton"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="@+id/LoginYoutubeButton"
+      app:layout_constraintTop_toBottomOf="@+id/LoginYoutubeButton" />
+
+  <Button
+      android:id="@+id/LoginTwitchButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="48dp"
+      android:text="@string/twitch"
+      android:background="@drawable/round_border"
+      app:layout_constraintEnd_toEndOf="@+id/LoginGmailButton"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="@+id/LoginGmailButton"
+      app:layout_constraintTop_toBottomOf="@+id/LoginGmailButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>

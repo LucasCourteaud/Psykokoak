@@ -1,0 +1,36 @@
+{
+    "Client": {
+        "Id_client": "1",
+        "id_service": [
+            {
+                "spotify": "ejs9nopp2uai6s2aewm7w96eu",
+                "twitch": "159170476"
+            }
+        ],
+        "token": [
+            {
+                "github": "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",
+                "gmail": "ya29.A0ARrdaM_iLxhfg8Ff3Gm6b9GEArRFcMrIpRSjFnw2SKRe6m7NW0GS9Mfc5NgyUe4Q8eDTRvxq4mD_tkQtfwNmq77N5HSg0d_thsE57hQwYEmrOLTnI0KuANFJnKFX9QjUMpCt2uzipAZSqb16oNwDUchhNElOLr7Wf-flXJbQhQiR",
+                "youtube": "ya29.A0ARrdaM-e6sRODh5w8WSazyApqVsiHBOigQW-ug9NzAFXiNugHltmXX6E0LoDntsTpsGbQ_ULqfSSVl_3QCTqK-XmhhrY-KIPTmDHyyMsPrH8gV3SVEXAMcFY6p2oUL1k9BJYI8bygbcy_NQhoodAqN2ljiWq",
+                "reddit": "1190468855374-d8qVg7LDnPqY5HxMQc4K4690ha2EZw",
+                "twitch": "e2rg57hkwhvf7phjkg12ftiguue2g8",
+                "spotify": "BQAJNXG-YVgzOn-hS8GWH1mfFJf778ZcwRvoEExgqEQ53QaWTRn4Xc2smqqJqge_O9QsEToUbbRMSu5IknKt79R0F8_juwIta261pqlBkf8VfLv0WOUF24z3GrnMvGyHPkri7lbxPLFDds1alKOGJStD7XlwKnft69qV1e0qSsobnLP3vXm5owy9DqibY3OneQan66XDVhyjpQSF4-ZJ9nw0AlHVKCfFZEByCiFJBsK3oDBlk2LACw"
+            }
+        ],
+        "refresh_token": [
+            {
+                "github": null,
+                "gmail": null,
+                "youtube": null,
+                "reddit": "1190468855374-t0MgEMKVtSUtTsCoDKrkoKmBntDCXA",
+                "twitch": "q25psjj2bccipiw4tmdtjukyb25mo4w8ernl7so9ugzt22c1g4",
+                "spotify": "AQCMj8SfH9Oyle3fI74IopoLVYaWfZj-OqQ64QnA_YicSSeMixOfTH5_NhnHJc3uQ045AEVunu48FkxvcSBiXxZw0RPdJrjYUtRrmzmA0KHpWHyJQbiQl3Ai6035V_YT6j0"
+            }
+        ]
+    },
+    "tmp": {
+        "google_count": 18
+    },
+    "Kouaks": [
+    ]
+}

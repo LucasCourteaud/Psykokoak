@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999158494432",
+    "project_id": "psykokwak-532ef",
+    "storage_bucket": "psykokwak-532ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999158494432:android:e3df31e0804698ba488c85",
+        "android_client_info": {
+          "package_name": "com.psykokoak.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999158494432-mp0l67ilandprs73sjp7hhjpukra6hv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psykokoak.app",
+            "certificate_hash": "c19f1726a28449fd948e2c250fb1dafd1d56e49b"
+          }
+        },
+        {
+          "client_id": "999158494432-ov6dopfhvl962pivtr02ci70gfbfbvs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt81jwXYtmXlomhA-lPPrr8INgvEBe6mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999158494432-ov6dopfhvl962pivtr02ci70gfbfbvs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
